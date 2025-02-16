@@ -1,0 +1,16 @@
+{
+  "name": "scrim-s066ikr",
+  "description": "A frontend project to demonstrate web development concepts using Vite."
+,
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
